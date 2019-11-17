@@ -1,0 +1,2 @@
+make all functions return something;
+make bot takes array of commands as bulk;
